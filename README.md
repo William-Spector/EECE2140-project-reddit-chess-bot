@@ -7,8 +7,8 @@
 Main loop
 
 ### High Priority:
-Level class, contains Chart, song audio file, graphics information
-Chart class, contains collections of Notes
+Level class, contains Chart, song audio file, graphics information   
+Chart class, contains collections of Notes   
 Note class, contains timing information, location information
 
 ### Low Priority:
