@@ -28,15 +28,16 @@ Menu class, contains strings and funcitons for game navigation
 ## Medium Priority
 
 - Menus/UI
-- Scores/Saving
+- Scores
+- Saving
 - Lose condition
 - Tutorial Stage
 
 ## Low Priority
 
 - Extra Songs
-- Multiple Levels
-- Multiple Song Speeds
+- Multiple Difficulty Levels
+- Selectible Song Speeds
 
 # Libraries
 
