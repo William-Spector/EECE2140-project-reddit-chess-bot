@@ -10,6 +10,10 @@ class Note:
     def __init__(self, ms: int, color: int, location: tuple):
         '''
         initializer for Note
+        Inputs:
+            ms          int
+            color       int
+            location    tuple(int), len=2
         '''
         self.timing = ms
         self.color = color
@@ -19,5 +23,6 @@ class Note:
         '''
         function draw_note
         returns the location and color the note should be in a tuple
+        unused, may be deleted in a future commit
         '''
-        return (self.location, self.tuple)
+        return (self.location, self.color)
