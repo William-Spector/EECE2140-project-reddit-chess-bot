@@ -1,6 +1,6 @@
 # Another Two Button Rhythm Game (A2BRG)
 
-![A2BRG Logo][/GFX/A2BRG-Icon.png]
+![A2BRG Logo](/GFX/A2BRG-Icon.png)
 
 ## Summary
 
